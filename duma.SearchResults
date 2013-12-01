@@ -1,0 +1,11 @@
+---- DUMA_GNU_INIT_ATTR Matches (10 in 3 files) ----
+Createconf.c:    fprintf(f, "#define DUMA_GNU_INIT_ATTR 1\n");
+Createconf.c:    fprintf(f, "/* #define DUMA_GNU_INIT_ATTR 0 */\n");
+Createconf.c (kduma):	fprintf(f, "/* Variable: DUMA_GNU_INIT_ATTR\n");
+Createconf.c (kduma):		fprintf(f, "#define DUMA_GNU_INIT_ATTR 1\n");
+Createconf.c (kduma):		fprintf(f, "/* #define DUMA_GNU_INIT_ATTR 0 */\n");
+Duma.c:#if ( defined(DUMA_GNU_INIT_ATTR) && !defined(DUMA_PREFER_ATEXIT) )
+Duma.c:#if ( !defined(DUMA_NO_LEAKDETECTION) && ( defined(DUMA_PREFER_ATEXIT) || !defined(DUMA_GNU_INIT_ATTR) ) )
+Duma.c:#endif /* ( !defined(DUMA_NO_LEAKDETECTION) && ( defined(DUMA_PREFER_ATEXIT) || !defined(DUMA_GNU_INIT_ATTR) ) ) */
+Duma.c:#ifdef DUMA_GNU_INIT_ATTR
+Duma.c:#if ( defined(DUMA_GNU_INIT_ATTR) && !defined(DUMA_PREFER_ATEXIT) )

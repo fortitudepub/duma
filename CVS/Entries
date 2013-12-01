@@ -1,0 +1,60 @@
+/.cvsignore/1.2/Sun Sep  5 23:24:48 2004//TVERSION_2_5_15
+/CHANGELOG/1.77/Sat Apr 11 18:58:48 2009//TVERSION_2_5_15
+/COPYING-GPL/1.1/Wed May 21 21:22:52 2003//TVERSION_2_5_15
+/COPYING-LGPL/1.1/Wed May 21 21:22:52 2003//TVERSION_2_5_15
+/GNUmakefile/1.3/Sun Aug  3 19:22:38 2008//TVERSION_2_5_15
+/INSTALL/1.8/Tue Mar 17 23:04:43 2009//TVERSION_2_5_15
+/README.txt/1.20/Mon Apr  6 22:26:47 2009//TVERSION_2_5_15
+/TODO/1.18/Mon Apr  6 22:27:42 2009//TVERSION_2_5_15
+/WIN32_DETOURS_HOWTO.txt/1.5/Sun Oct 22 23:16:43 2006//TVERSION_2_5_15
+/builddocs.bat/1.3/Sun Oct 22 23:16:48 2006//TVERSION_2_5_15
+/createconf.c/1.24/Sat Apr 11 12:40:31 2009//TVERSION_2_5_15
+/createconf_new.cpp/1.2/Sun Aug  3 20:44:17 2008//TVERSION_2_5_15
+/duma.3/1.2/Sun Sep  4 00:32:17 2005//TVERSION_2_5_15
+/duma.c/1.68/Sat Apr 11 18:58:23 2009//TVERSION_2_5_15
+/duma.h/1.20/Sat Apr 11 12:32:05 2009//TVERSION_2_5_15
+/duma.sh/1.7/Sun Jul 20 22:59:32 2008//TVERSION_2_5_15
+/duma_hlp.h/1.13/Tue Apr 22 23:19:39 2008//TVERSION_2_5_15
+/duma_sem.h/1.3/Sat Apr 11 12:34:23 2009//TVERSION_2_5_15
+/dumapp.cpp/1.18/Sun Aug  3 20:46:06 2008//TVERSION_2_5_15
+/dumapp.h/1.16/Sat Apr 11 12:41:44 2009//TVERSION_2_5_15
+/dumatest.c/1.15/Tue Mar 17 23:04:43 2009//TVERSION_2_5_15
+/dumatestpp.cpp/1.5/Tue Mar 17 23:04:43 2009//TVERSION_2_5_15
+/example1.cpp/1.4/Sun Jul 15 02:20:14 2007//TVERSION_2_5_15
+/example2.cpp/1.4/Sun Jul 15 02:20:14 2007//TVERSION_2_5_15
+/example3.cpp/1.4/Sun Jul 15 02:20:14 2007//TVERSION_2_5_15
+/example4.cpp/1.4/Sun Jul 15 02:20:14 2007//TVERSION_2_5_15
+/example5.cpp/1.4/Sun Jul 15 02:20:14 2007//TVERSION_2_5_15
+/example6.cpp/1.4/Sun Jul 15 02:20:14 2007//TVERSION_2_5_15
+/gdbinit.rc/1.1/Wed Mar 12 22:16:18 2008//TVERSION_2_5_15
+/mkclean.bat/1.2/Mon Jan  3 23:15:16 2005//TVERSION_2_5_15
+/noduma.h/1.12/Sun Aug  3 20:46:16 2008//TVERSION_2_5_15
+/package.sh/1.5/Sun Aug  3 20:51:44 2008//TVERSION_2_5_15
+/paging.h/1.19/Sun Aug  3 20:47:48 2008//TVERSION_2_5_15
+/print.c/1.27/Sat Apr 11 12:33:47 2009//TVERSION_2_5_15
+/print.h/1.11/Sat Apr 11 12:32:46 2009//TVERSION_2_5_15
+/sem_inc.c/1.25/Mon Apr  6 22:32:37 2009//TVERSION_2_5_15
+/testalloc0.cpp/1.2/Sun Apr 27 21:25:03 2008//TVERSION_2_5_15
+/testalloc0.sh/1.1/Wed Apr 23 00:31:48 2008//TVERSION_2_5_15
+/testenv.c/1.1/Thu Aug 16 00:31:20 2007//TVERSION_2_5_15
+/testmt.c/1.13/Sun Aug  3 22:47:58 2008//TVERSION_2_5_15
+/testoperators.cpp/1.11/Tue Mar 17 23:04:43 2009//TVERSION_2_5_15
+/testsems.cpp/1.1/Mon Apr  6 22:16:11 2009//TVERSION_2_5_15
+/thread-test.c/1.6/Tue Mar 17 23:04:43 2009//TVERSION_2_5_15
+/tstheap.c/1.11/Tue Sep 27 23:04:48 2005//TVERSION_2_5_15
+D/comparisons////
+D/debian////
+D/detours////
+D/detoursexample1////
+D/docs-data////
+D/dumadetours////
+D/dumadetoursdll////
+D/dumadll////
+D/example_makes////
+D/kduma////
+D/stacktrace////
+D/win32-devcpp////
+D/win32-msvc////
+D/win32-msvc.2005////
+D/win32-msvc.net////
+D/win32-vide////
